@@ -14,3 +14,22 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.container-form{
+  display: block;
+  width: 30%;
+  margin: auto;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  padding: 30px;
+  border-radius: 10px;
+   min-width: 350px;
+}
+
+button{
+  margin-top: 10px;
+}
+
+input{
+  margin: 10px 0;
+  width: 300px;
+}
